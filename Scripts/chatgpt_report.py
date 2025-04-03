@@ -15,7 +15,7 @@ python /mnt/project/DeepBrain/WebSite/DeepBrain/chatgpt_report.py --json /mnt/pr
 
 '''
 
-openai.api_key = "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"
+openai.api_key = "OOPS THATS MY API KEY"
 
 def analyze_mri_and_mask(mri_path, mask_path):
     # 加载 MRI 图像和分割掩膜
